@@ -99,6 +99,10 @@ Details of loss/gain for the buy/sell (based on trading signals)
 
 ![image](https://user-images.githubusercontent.com/108433370/196787848-f7aee07e-322b-4ea1-8bd1-e4f8818dc813.png)
 
+Results of Back Testing
+![image](https://user-images.githubusercontent.com/107158380/196812327-51612b28-1f6d-4a31-a924-6b048ab289c1.png)
+![image](https://user-images.githubusercontent.com/107158380/196812357-f8b14590-2c6d-4081-ac63-9af85103f3ef.png)
+
 
 ## 2) FUTURES CONTRACT (COMMODITY - ORANGE JUICE TICKER OJ=F) 
 
