@@ -80,7 +80,7 @@ Use a for loop to run the model and have it so that every 1000 epochs it prints 
 
 # RESULTS
 
-## INDEX FUND S&P 500 (SPY)
+## 1) INDEX FUND S&P 500 (SPY)
 
 Graph of price, moving average price and moving average volume
 
@@ -94,6 +94,36 @@ Graph of trading signals
 Details of loss/gain for the buy/sell (based on trading signals)
 
 ![image](https://user-images.githubusercontent.com/108433370/196787848-f7aee07e-322b-4ea1-8bd1-e4f8818dc813.png)
+
+
+## 2) FUTURES CONTRACT (COMMODITY - ORANGE JUICE TICKER OJ=F) 
+
+Graph of price, price action (assumed moving average price is the high water mark) and momentum/volume (assumed moving average volume as the momentum criteria)
+
+![image](https://user-images.githubusercontent.com/108433370/196788407-9c646dc8-a7d7-4a53-8607-e34be3a16b02.png)
+
+Trading signals
+
+![image](https://user-images.githubusercontent.com/108433370/196788862-77fa7757-3024-4cf2-bbfc-695c9a328cc8.png)
+
+Graph of trading signals
+
+![image](https://user-images.githubusercontent.com/108433370/196788465-8897a9a0-379a-45f2-9e5e-20b3ab4ee3aa.png)
+
+Details of loss/gain for the buy/sell (based on trading signals)
+
+![image](https://user-images.githubusercontent.com/108433370/196788539-213f0eca-d861-4f55-a46f-4eedf2505fd4.png)
+
+
+Results of back-testing
+
+![image](https://user-images.githubusercontent.com/108433370/196788624-e09bc953-6d94-4f26-a357-0a9ef973cdec.png)
+
+
+
+
+
+## 3) CRYPTOCURRENCY - BITCOIN 
 
 
 
