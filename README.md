@@ -98,6 +98,10 @@ Details of loss/gain for the buy/sell (based on trading signals)
 
 ## 2) FUTURES CONTRACT (COMMODITY - ORANGE JUICE TICKER OJ=F) 
 
+Dataframe
+
+![image](https://user-images.githubusercontent.com/108433370/196789157-aa384dec-cbd6-4582-a3fa-0588b8b35ae2.png)
+
 Graph of price, price action (assumed moving average price is the high water mark) and momentum/volume (assumed moving average volume as the momentum criteria)
 
 ![image](https://user-images.githubusercontent.com/108433370/196788407-9c646dc8-a7d7-4a53-8607-e34be3a16b02.png)
