@@ -19,22 +19,25 @@ We want to create an Algo-Trading model/platform that individuals can have acces
 ============================================================================================
 
 # MODEL, TOOLS, LIBRARIES
+This project leverages python 3.7 with the following packages:
 
-SK-Learn
+* [Pandas](https://pandas.pydata.org/) - Pandas is a powerfull tool for data analysis and manipulation. Pandas provides a plethora of useful functions that make it easy to express, analyze, and manipulate data.
 
-PyTorcj
+* [sk-learn](https://scikit-learn.org/stable/) - This is a machine learning library for the python programming language. This library allows for the use of multiple machine learning models, tools, and algorithms.
 
-Panda
+* [Hvplot](https://hvplot.holoviz.org/) - This Module provides a high-level potting API that allows for users to easily generate a wide array of plot types. HvPlot's main benefit is that it allows for very interactive visualizations.
 
-Numpy
+* [Numpy](https://numpy.org/) - This module offers comprehensive mathematical functions, used for working with arrays. Numpy allows for seamlessand speedy integration with a wide variety of databases.
 
-YFinance
+* [PyTorch](https://pytorch.org/) - PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing.
 
-Finta
+* [Yfinance](https://pypi.org/project/yfinance/) - Yfinance is a python package that enables us to fetch historical market data from Yahoo Finance API in a Pythonic way.
 
-hvplot
+* [Finta](https://github.com/peerchemist/finta) - This module offers common financial technical indicators that can be implemented in Pandas.
 
-matplotlib
+* [matplotlib](https://matplotlib.org/) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. 
+
+
 
 ============================================================================================
 
