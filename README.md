@@ -45,13 +45,15 @@ This project leverages python 3.7 with the following packages:
 
 Our project is to create a profitable trading algorithm - model that anyone can use or subscribe to.
 
-Users can choose a specific type of asset, match with a trading strategy, predict prices and make a profit using our trading algo - model/platform.  
+We selected 3 type of asset types (securities) i.e. index fund, futures contract and a digital asset (cryptocurrency) for analysis.
 
-For this project, we used the momentum trading strategy for an exchange traded fund (SPY), bollinger bands for a cryptocurrency (bitcoin), and pullback strategy for futures contracts (commodity - orange juice). 
+We also selected different trading strategies for the 3 different asset types. We used the momentum trading strategy for an exchange traded fund (SPY), pullback strategy for futures contracts, and bollinger bands for a cryptocurrency.
 
 We calculated standard deviations, sharpe ratios and cumulative returns for each type of asset. 
 
 We used SK-Learn and PyTorch libraries to create prediction models for future prices.
+
+The ultimate project goal is to create a platform for users to be able to use to choose a specific type of asset, match with a trading strategy, predict prices and make a profit using our trading algo - model/platform.  
 
 
 ===========================================================================================
