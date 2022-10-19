@@ -16,7 +16,7 @@ Ros Tiamzon
 
 We want to create an Algo-Trading model/platform that individuals can have access to (via subscription, etc.) at an affordable price, where they can choose a specific type of asset (stocks, funds, bonds, digital assets, derivatives, swaps, options, futures, forwards, etc), and match with or explore trading strategies they like, and make profit with their excess cash.
 
-================================================================================================================
+============================================================================================
 
 # MODEL, TOOLS, LIBRARIES
 
@@ -36,7 +36,7 @@ hvplot
 
 matplotlib
 
-================================================================================================================
+============================================================================================
 
 # ABOUT THE PROJECT
 
@@ -51,7 +51,7 @@ We calculated standard deviations, sharpe ratios and cumulative returns for each
 We used SK-Learn and PyTorch libraries to create prediction models for future prices.
 
 
-================================================================================================================
+===========================================================================================
 
 # DATA PREPARATION - MODEL TRAINING 
 
@@ -76,10 +76,24 @@ Step 5:
 Use a for loop to run the model and have it so that every 1000 epochs it prints out the model loss. Then plot the results of the model that compare the actual price vs the model’s predicted price.
 
 
-================================================================================================================
+===========================================================================================
 
 # RESULTS
 
+## INDEX FUND S&P 500 (SPY)
+
+Graph of price, moving average price and moving average volume
+
+![image](https://user-images.githubusercontent.com/108433370/196787488-3f8d8a6b-f5b1-463c-91c6-ddd9988d22bb.png)
+
+
+Graph of trading signals
+
+![image](https://user-images.githubusercontent.com/108433370/196787577-c4f165be-5e15-4c6e-894e-595add04d2a1.png)
+
+Details of loss/gain for the buy/sell (based on trading signals)
+
+![image](https://user-images.githubusercontent.com/108433370/196787848-f7aee07e-322b-4ea1-8bd1-e4f8818dc813.png)
 
 
 
