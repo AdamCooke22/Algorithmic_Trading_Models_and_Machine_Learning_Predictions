@@ -132,6 +132,20 @@ Results of back-testing
 
 ## 3) CRYPTOCURRENCY - BITCOIN 
 
+Dataframe
+
+
+Graph of price, price action (assumed moving average price is the high water mark) and momentum/volume (assumed moving average volume as the momentum criteria)
+
+
+Trading signals
+
+
+Details of loss/gain for the buy/sell (based on trading signals)
+
+
+Results of back-testing
+
 
 
 
