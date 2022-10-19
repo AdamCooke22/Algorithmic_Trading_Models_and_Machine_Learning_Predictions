@@ -84,9 +84,10 @@ Use a for loop to run the model and have it so that every 1000 epochs it prints 
 # RESULTS
 
 ## 1) INDEX FUND S&P 500 (SPY)
+Dataframe
+![image](https://user-images.githubusercontent.com/107158380/196812002-2b5f071f-e5ac-4afa-9ba0-3a2078cf0fcd.png)
 
 Graph of price, moving average price and moving average volume
-
 ![image](https://user-images.githubusercontent.com/108433370/196787488-3f8d8a6b-f5b1-463c-91c6-ddd9988d22bb.png)
 
 
@@ -125,6 +126,7 @@ Details of loss/gain for the buy/sell (based on trading signals)
 Results of back-testing
 
 ![image](https://user-images.githubusercontent.com/108433370/196788624-e09bc953-6d94-4f26-a357-0a9ef973cdec.png)
+![image](https://user-images.githubusercontent.com/107158380/196811824-b586ab65-324d-4ea4-8bfa-40fb37a9ed88.png)
 
 
 
@@ -133,18 +135,27 @@ Results of back-testing
 ## 3) CRYPTOCURRENCY - BITCOIN 
 
 Dataframe
+![image](https://user-images.githubusercontent.com/107158380/196811171-5f973953-3be3-4365-ba21-255680a77c68.png)
 
 
-Graph of price, price action (assumed moving average price is the high water mark) and momentum/volume (assumed moving average volume as the momentum criteria)
+Graph of price, and Bollinger bands
+![image](https://user-images.githubusercontent.com/107158380/196811310-c968717f-a39f-4b0c-b25f-48a7fa7e4fec.png)
 
 
 Trading signals
+![image](https://user-images.githubusercontent.com/107158380/196811406-e6772eb0-2e42-4e6d-b7f9-12305ae0bfde.png)
 
+Graph of trading signals
+![image](https://user-images.githubusercontent.com/107158380/196811515-5e70ec36-629d-4849-807c-1ab8f3dd208a.png)
 
 Details of loss/gain for the buy/sell (based on trading signals)
+![image](https://user-images.githubusercontent.com/107158380/196811667-6e847060-2f10-445f-af65-61929c686066.png)
+![image](https://user-images.githubusercontent.com/107158380/196811700-ae30361a-2a53-444b-8f4b-29c84fd7991b.png)
 
 
 Results of back-testing
+![image](https://user-images.githubusercontent.com/107158380/196810761-accbb1a8-70fb-4a9d-bea4-90f6b822b162.png)
+![image](https://user-images.githubusercontent.com/107158380/196810817-aaaaa68a-1654-433c-9238-0ba1c17a444d.png)
 
 
 
