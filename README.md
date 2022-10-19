@@ -85,22 +85,34 @@ Use a for loop to run the model and have it so that every 1000 epochs it prints 
 
 ## 1) INDEX FUND S&P 500 (SPY)
 Dataframe
+
 ![image](https://user-images.githubusercontent.com/107158380/196812002-2b5f071f-e5ac-4afa-9ba0-3a2078cf0fcd.png)
 
+
 Graph of price, moving average price and moving average volume
+
 ![image](https://user-images.githubusercontent.com/108433370/196787488-3f8d8a6b-f5b1-463c-91c6-ddd9988d22bb.png)
+
+
+Trading signals
+
+![image](https://user-images.githubusercontent.com/107158380/196812733-59970961-4239-4c54-aac4-354c834824f6.png)
 
 
 Graph of trading signals
 
 ![image](https://user-images.githubusercontent.com/108433370/196787577-c4f165be-5e15-4c6e-894e-595add04d2a1.png)
 
+
 Details of loss/gain for the buy/sell (based on trading signals)
 
 ![image](https://user-images.githubusercontent.com/108433370/196787848-f7aee07e-322b-4ea1-8bd1-e4f8818dc813.png)
 
+
 Results of Back Testing
+
 ![image](https://user-images.githubusercontent.com/107158380/196812327-51612b28-1f6d-4a31-a924-6b048ab289c1.png)
+
 ![image](https://user-images.githubusercontent.com/107158380/196812357-f8b14590-2c6d-4081-ac63-9af85103f3ef.png)
 
 
@@ -139,26 +151,36 @@ Results of back-testing
 ## 3) CRYPTOCURRENCY - BITCOIN 
 
 Dataframe
+
 ![image](https://user-images.githubusercontent.com/107158380/196811171-5f973953-3be3-4365-ba21-255680a77c68.png)
 
 
 Graph of price, and Bollinger bands
+
 ![image](https://user-images.githubusercontent.com/107158380/196811310-c968717f-a39f-4b0c-b25f-48a7fa7e4fec.png)
 
 
 Trading signals
+
 ![image](https://user-images.githubusercontent.com/107158380/196811406-e6772eb0-2e42-4e6d-b7f9-12305ae0bfde.png)
 
+
 Graph of trading signals
+
 ![image](https://user-images.githubusercontent.com/107158380/196811515-5e70ec36-629d-4849-807c-1ab8f3dd208a.png)
 
+
 Details of loss/gain for the buy/sell (based on trading signals)
+
 ![image](https://user-images.githubusercontent.com/107158380/196811667-6e847060-2f10-445f-af65-61929c686066.png)
+
 ![image](https://user-images.githubusercontent.com/107158380/196811700-ae30361a-2a53-444b-8f4b-29c84fd7991b.png)
 
 
 Results of back-testing
+
 ![image](https://user-images.githubusercontent.com/107158380/196810761-accbb1a8-70fb-4a9d-bea4-90f6b822b162.png)
+
 ![image](https://user-images.githubusercontent.com/107158380/196810817-aaaaa68a-1654-433c-9238-0ba1c17a444d.png)
 
 
